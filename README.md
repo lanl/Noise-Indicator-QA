@@ -1,6 +1,9 @@
 # Noise-Indicator-QA
-Noise Indicator for Quantum Annealing
 
+Repository accompanying the paper `Noise Dynamics of Quantum Annealers: Estimating Noise Using Idle Qubits`
+
+- `figures/` contains result figures
+- `data/` contains raw dwave data
 
 
 ## Copyright Notice:
