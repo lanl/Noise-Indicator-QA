@@ -3,8 +3,7 @@
 Repository accompanying the paper `Noise Dynamics of Quantum Annealers: Estimating Noise Using Idle Qubits`
 
 - `figures/` contains result figures
-- `data/` contains raw dwave data
-
+- `fixed_problems/` contains the fixed problem QUBOs (both random and Maximum Clique) which are executed in sequence. 
 
 ## Copyright Notice:
 © 2022. Triad National Security, LLC. All rights reserved.
