@@ -1,6 +1,6 @@
 # Noise-Indicator-QA
 
-Repository accompanying the paper `Noise Dynamics of Quantum Annealers: Estimating Noise Using Idle Qubits`
+Repository accompanying the paper `Noise Dynamics of Quantum Annealers: Estimating the Effective Noise Using Idle Qubits`
 
 - `figures/` contains result figures
 - `fixed_problems/` contains the fixed problem QUBOs (both random and Maximum Clique) which are executed in sequence. 
